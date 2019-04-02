@@ -117,17 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="huella-de-pata" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\huella-de-pata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia(2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia(2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAOkOAADpDgAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAbgAAAM0AAACAAAAADAAAAAAAAAAAAAAAKQAAALAAAADXAAAAPQAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAIgAAAP4AAAD/AAAA/wAAAOgAAACOAAAAnwAAAPoAAAD/AAAA/wAA
+        ANcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEUAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAA/AAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA0wAAAAAAAAAAAAAAAAAAAAkAAABwAAAASwAAAKIAAAD/AAAA/wAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAGgAAABMAAAAcAAAAAkAAAChAAAA/wAAAP4AAABWAAAA5AAAAP8AAAD/AAAA/wAA
+        AP8AAAD/AAAA/wAAAL4AAABKAAAA/wAAAP8AAACgAAAA8AAAAP8AAAD/AAAAlwAAAB8AAAC5AAAA/wAA
+        AP8AAAD/AAAA+AAAAJYAAAAKAAAAmAAAAP8AAAD/AAAA8AAAAOcAAAD/AAAA/wAAAI0AAAANAAAAOQAA
+        ACQAAABCAAAAOQAAAB4AAAA3AAAABgAAAI8AAAD/AAAA/wAAAOYAAAB6AAAA/wAAAPMAAABIAAAA5AAA
+        AP8AAADUAAAAEQAAACwAAADrAAAA/wAAAMkAAAA0AAAA9AAAAP8AAAB5AAAAAAAAADQAAAAcAAAAnQAA
+        AP8AAAD/AAAA/wAAAHwAAACvAAAA/wAAAP8AAAD/AAAAaQAAABwAAAA0AAAAAAAAAAAAAAAAAAAAAAAA
+        ANMAAAD/AAAA/wAAAP8AAACzAAAA5QAAAP8AAAD/AAAA/wAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAADHAAAA/wAAAP8AAAD/AAAApgAAANkAAAD/AAAA/wAAAP8AAACTAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAdwAAAP8AAAD/AAAA/wAAAFUAAACJAAAA/wAAAP8AAAD/AAAAQgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAYAAACVAAAA2wAAAH8AAAABAAAACgAAAJ8AAADaAAAAcgAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAA//8AAOGHAADABwAAwAcAAMAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIABAADgBwAA4AcAAOAH
+        AADgDwAA//8AAA==
+</value>
   </data>
 </root>

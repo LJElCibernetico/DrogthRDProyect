@@ -117,17 +117,32 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="huella-de-pata" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\huella-de-pata.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia(1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia(1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="sequia(2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\sequia(2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAHYAAAB2AAAAAAAAAAAA
+        AAAOGiDfJENS3iRDUt4kQ1LeJENS3g8dI+8kQ1LeJENS3iRDUt4kQ1LeER8n7iJAT98kQ1LeGjA75hUn
+        MOoOGiDfJENS3lys0/9crNP/XKzT/1ys0/8rUGL/XKzT/1ys0/9crNP/XKzT/0WBnv9Ef5z/XKvS/yVF
+        VP9Zpsz/JENS3g8dI+81ZHr/R4Wj/1yr0v9crNP/J0hZ/yNBT/9Kiqr/XKzT/1qozv81ZHr/Fioz/yJA
+        T/9FgJ3/XKzT/yRDUt4kQVDeTpKz/zlrg/8pTF7/MVxx/ylNXv9Ypcr/K1Fj/zBab/8pTF7/TI6u/1ys
+        0/8mRlb/XKzT/1ys0/8kQ1LeHDVB5EuMq/9LjKv/Soqp/xcsNv9CfJj/S4yr/0qLqv8bMz7/QnuX/0uM
+        q/9LjKv/IkBP/0uMq/9LjKv/HDVB5AkPElUKEhdiAwQGtgoSF2IKEhdiChIXYgoSF2IKEhdiChIXYgoS
+        F2IKEhdiKyws2peYmPaXmJj2jpCQ9hgbG7H///8A////AAAAAIj///8A////AP///wD///8A////AP//
+        /wD///8A////AExMTMft7u7/7e7u/97f3/8qKiqR////AP///wAAAACI////AP///wD///8A////AP//
+        /wD///8A////AP///wBMTEzH7e7u/+3u7v/e39//Kioqkf///wD///8AAAAAiP///wD///8A////AP//
+        /wD///8A////AP///wD///8APDw80cHCwv/BwsL/tba2/ycnJ5X///8A////AAAAAKIAAAAm////AP//
+        /wD///8A////AP///wD///8A////AA4RH9U3RIP2O0uN9iYuV/QPEyKG////AP///wAAAACcAAAAZAAA
+        AL0AAACB////AAAAABD///8AAAAAd////wAAAAAmHiVH2FJmw/4SFyu0////AP///wAAAAATAAAAof//
+        /wAAAAA5AAAAW////wAAAABWAAAAQw4SIZEFBQ80AAAAeggMGD8OESDOAAAACv///wAAAABxAAAAqgAA
+        AGEAAABw////AAAAAAQAAAAQAAAAIhohPcRSZ8T/HyhM2wAAACAAAAAZ////AP///wD///8AAAAAPwAA
+        AEz///8AAAAAVwAAAGUAAAAgAAAAMQAAAD8dI0TKWnHX/ycwW+AAAAA5AAAALv///wD///8A////AAAA
+        ACsAAAAO////AP///wAAAACyAAAAsQAAAEQAAAA/BgYJVRQYLaoMDx9TAAAAYv///wD///8A////AP//
+        /wD///8A////AP///wD///8AAAAAYQAAACP///8AAAAAJP///wAAAACI////AAAAACX///8A////AP//
+        /wD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA3+AAAN/gAADf4AAAz+AAAMKhAACSAQAACAcAACAH
+        AAAwDwAA8q8AAA==
+</value>
   </data>
 </root>
